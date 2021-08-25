@@ -1,3 +1,4 @@
+package Thread;
 import javax.swing.JOptionPane;
 
 public class CursoThread {
